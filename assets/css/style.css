@@ -73,7 +73,7 @@ main {
     margin-left: 20px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -118,21 +118,15 @@ h3,
     color: #ffffff;
 }
 
-.search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
+.search-engine-optimization img,
+.online-reputation-management img,
 .social-media-marketing img {
     max-height: 200px;
 }
 
 h2,
 .search-engine-optimization,
-.onlilne-reputation-management, 
+.online-reputation-management, 
 .social-media-marketing
 {
 margin-bottom: 20px;
