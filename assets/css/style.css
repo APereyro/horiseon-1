@@ -90,10 +90,9 @@ aside {
     color: #ffffff;
 }
 
-h3,
-.benefit-lead, 
-.benefit-brand, 
-.benefit-cost {
+.benefit-lead h3, 
+.benefit-brand h3, 
+.benefit-cost h3{
     margin-bottom: 10px;
     text-align: center;
 }
